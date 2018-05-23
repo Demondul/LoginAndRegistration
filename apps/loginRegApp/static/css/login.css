@@ -1,0 +1,17 @@
+.registration, .error{
+    min-height: 1px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 20px;
+}
+.login{
+    min-height: 1px;
+    display: block;
+    margin: 20px;
+}
+.inputs{
+    display: inline-block;
+}
+.btnToRight{
+    float: right;
+}
